@@ -24,8 +24,9 @@ pingit()                           #Starts off whole process
 
 
 
-
+###
 # this runs on remote pc that is going to be checked
+###
 from socket import *
 
 HOST = 'localhost'
